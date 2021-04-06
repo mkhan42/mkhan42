@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkhan42, or Michalle.
-- 👀 I’m interested in software engineering, specifically Frontend and Web Development.
+- 👀 I’m interested in software engineering, especially Frontend and Web Development.
 - 🌱 I’m currently learning Frontend/Fullstack Web Development. I am specifically learning HTML, CSS, BootStrap, JavaScript, jQuery, Node.js, Express.js, EJS, MySQL, MongoDB, and Mongoose.
 - 💞️ I’m looking to collaborate on anything!
 
