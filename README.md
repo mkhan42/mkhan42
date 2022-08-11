@@ -1,7 +1,8 @@
-- 👋 Hi there, I’m Michalle!
-- 👀 I’m interested in software engineering, especially Frontend, Web Development, and Full-Stack.
-- 🌱 I’m currently learning Frontend/Fullstack Web Development. I am specifically learning HTML, CSS, BootStrap, JavaScript, jQuery, Node.js, Express.js, EJS, MySQL, MongoDB, and Mongoose.
-- 💞️ I’m looking to collaborate on anything!
+Hi there, I’m Michalle!
+I’m interested in software engineering, especially Backend, Frontend, and Full-Stack.
+I graduated college with a Bachelor's of Science in Computer Science in 2021. I recently decided to attend General Assembly's Software Engineering Immersive Bootcamp to learn more technologies and advance in my problem solving, debugging, and full-stack skills.
+
+💞️ I’m looking to collaborate on anything!
 
 <!---
 mkhan42/mkhan42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
