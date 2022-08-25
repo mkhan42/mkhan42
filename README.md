@@ -1,4 +1,4 @@
-Hi there, I’m Michalle, a software engineer!
+Hi there, I’m Michalle, a software engineer based in NYC!
 
 🎓 I graduated college with a Bachelor's of Science in Computer Science in 2021. I recently decided to attend General Assembly's Software Engineering Immersive Bootcamp to learn more technologies and advance in my problem solving, debugging, and full-stack skills.
 
@@ -16,10 +16,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 GitHub Stats
+
 ![Michalle's github stats](https://github-readme-stats.vercel.app/api?username=mkhan42)
 
+
 Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhan42)](https://github.com/mkhan42/github-readme-stats)
+
 
 My Tech Stack
 - JavaScript
