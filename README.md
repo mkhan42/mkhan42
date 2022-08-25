@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Michalle's github stats](https://github-readme-stats.vercel.app/api?username=mkhan42)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhan42)](https://github.com/mkhan42/github-readme-stats)
