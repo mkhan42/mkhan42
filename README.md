@@ -26,7 +26,7 @@ Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhan42)](https://github.com/mkhan42/github-readme-stats)
 --->
 
-My Tech Stack
+My Tech Stack:
 - JavaScript
 - Python
 - C++
