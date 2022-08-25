@@ -8,13 +8,14 @@ Hi there, I’m Michalle, a software engineer based in NYC!
 
 🔗 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/michalle-khan
 
-🌼 Also, Check out my Portfolio Site -> https://mkhan42.github.io/MK/
+🌼 Also, check out my Portfolio Site -> https://mkhan42.github.io/MK/
 
 <!---
 mkhan42/mkhan42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 GitHub Stats
 
 ![Michalle's github stats](https://github-readme-stats.vercel.app/api?username=mkhan42)
@@ -23,7 +24,7 @@ GitHub Stats
 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhan42)](https://github.com/mkhan42/github-readme-stats)
-
+--->
 
 My Tech Stack
 - JavaScript
